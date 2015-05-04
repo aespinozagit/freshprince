@@ -1,0 +1,24 @@
+h1 {
+	color: red;
+}
+
+body {
+	background-color: green;	
+	text-align: center;
+	font-family: sans-serif;
+}
+
+/*Make all other text white.*/
+h2, p, ul {
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+}
+
+a:hover {
+	color: red;
+}
